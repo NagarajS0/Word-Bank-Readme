@@ -19,4 +19,4 @@ Start the application.
       npm start
 
 Open http://localhost:3000/ on browser. If you dont get it after opening refresh it once. 
-Let anyone from the mentoring team know, if you are facing any troubles.
+Let anyone from the mentoring team know,if you are facing any troubles.
